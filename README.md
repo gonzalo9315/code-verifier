@@ -4,4 +4,4 @@ Proyecto de OpenBootcamp. Se trata de una web en el que los usuarios pueden enco
 
 ## Tecnologias
 - [ ] **Backend -** Nodejs + Expressjs + TypeScript
-- [ ] **Frontend -** Angular
+- [ ] **Frontend -** Reactjs + Material-UI
